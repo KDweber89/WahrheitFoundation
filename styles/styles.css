@@ -6,13 +6,6 @@ html, body {
     height: 100%;
 }
 
-/*
-Image has come from this guy here:
-https://jonkohlmeier.wordpress.com/2012/02/12/day-37-luthers-seal/
-I likely will need to ask him for permission, but for now its not an issue.
-
-Looks like he is an lcms bro: http://jonkohlmeier.net/;
-*/
 
 .main{
   background: url('../styles/images/lutherSeal.jpg');
@@ -55,6 +48,6 @@ p {
 
   .info{
     width: 100%;
-    height: 300px;
+    height: 325px;
   }
 }
